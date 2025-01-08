@@ -1,6 +1,7 @@
-#Identifica los objetos, atributos y responsabilidades
+# TAREA 1. RESUELVE LOS SIGUIENTES CASOS DE ESTUDIO
+## IDENTIFICA LOS OBJETOS, ATRIBUTOS Y RESPONSABILIDADESentifica los objetos, atributos y responsabilidades
 
-##Actividad:
+**Actividad:**
 
 ¿Cuáles son los Objetos dentro del problema?
 
@@ -8,7 +9,7 @@
 2. De cada objeto piensa cuáles son las características que representan el estado actual del mismo.
 3. Cada uno de los objetos tiene un comportamiento (generalmente es un verbo). Busca todos los comportamientos que precises para el programa.
 
-###Tienda de golosinas
+## TIENDA DE GOLOSINAS
 
 Debido a la crisis por la pandemia, la tienda de golosinas de Miguel ha notado un descenso en los valores que compran sus clientes. Él cree que las restricciones horarias lo han afectado, para estudiar su negocio precisa hacer un registro de las ventas realizadas.
 
@@ -19,7 +20,7 @@ registran nombre, precio y proveedor.
 
 ---
 
-###Banco digital
+## BANCO DIGITAL
 
 Un banco por lo general ofrece diferentes servicios a personas, empresas e instituciones. Estos servicios bancarios a menudo incluyen paquetes o combos para sus clientes. Particularmente nos concentramos en el análisis de las llamadas tarjetas de crédito y tarjetas de débito. 
 
