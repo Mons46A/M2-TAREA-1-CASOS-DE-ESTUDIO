@@ -31,6 +31,6 @@ Un banco por lo general ofrece diferentes servicios a personas, empresas e insti
 
 <ins>Una tarjeta de crédito:</ins> nos permite hacer compras sin contar con el monto exacto en la cuenta bancaria, ya que el banco nos autoriza un límite de financiamiento que disminuye cada vez que usamos la tarjeta. Las compras pueden abonarse en cuotas, a las que se aplican intereses. Cada tarjeta tiene su propia tasa de interés y un número máximo de cuotas. Al pagar el resumen de la tarjeta, se recupera parte del límite de crédito, y este se restablece completamente al liquidar nuestras deudas. Así, siempre existe un saldo disponible y un saldo pendiente de pago. 
 
-##Actividad:
+**Actividad:**
 
 Identifica los elementos para la tarjeta de débito y la tarjeta de crédito.
